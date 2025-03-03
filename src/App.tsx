@@ -45,4 +45,3 @@ const App = () => (
 );
 
 export default App;
-</lov-add-dependency>react-helmet@6.1.0</lov-add-dependency>
